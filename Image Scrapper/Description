@@ -1,0 +1,1 @@
+The input to the image scrapper is the  "image that is to be downloaded" and "the no of images to be downloaded". The output will be the image downloaded in the specified folder.
